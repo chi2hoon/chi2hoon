@@ -21,8 +21,8 @@
 
 학습 과정에서 만든 notebook, SQL 리포트, 추천시스템 실습은 완성형 포트폴리오와 분리해 archive로 관리합니다.
 
-- [data-science-learning-archive](https://github.com/chi2hoon/1_repository): statistics, time series, ML notebooks
-- [MovieLens AutoInt Recommendation Learning Project](https://github.com/chi2hoon/DS4-Main-Quest): recommendation system learning
+- [data-science-learning-archive](https://github.com/chi2hoon/data-science-learning-archive): statistics, time series, ML notebooks
+- [MovieLens AutoInt Recommendation Learning Project](https://github.com/chi2hoon/movielens-autoint-recsys-learning): recommendation system learning
 - [Customer Segmentation SQL Learning Project](https://github.com/chi2hoon/customer-segmentation-project): SQL, RFM, customer analytics
 
 ## Direction
